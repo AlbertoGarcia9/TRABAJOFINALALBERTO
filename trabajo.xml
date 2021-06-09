@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="trabajo.xsl"?>
+<cantantes>
+         <Reggaeton>
+             <nombre>Ozuna</nombre>
+             <album>Odisea</album>
+             <Fecha>13 de marzo de 1992</Fecha>
+             <Foto>img/ozuna.jpg</Foto>
+         </Reggaeton>
+         <Reggaeton>
+             <nombre>Anuel</nombre>
+             <album> Los dioses</album>
+             <Fecha>26 de noviembre de 1992</Fecha>
+             <Foto>../img/anuel.jpg</Foto>
+         </Reggaeton>
+         <Reggaeton>
+             <nombre>Mike Towers</nombre>
+             <album>Easy Money Baby</album>
+             <Fecha>15 de enero de 1994</Fecha>
+             <Foto>../img/mike.jpg</Foto>
+         </Reggaeton>
+         <Reggaeton>
+             <nombre>Bad Bunny</nombre>
+             <album>El ultimo tour del mundo</album>
+             <Fecha>10 de marzo de 1994</Fecha>
+             <Foto>../img/badbunny.jpg</Foto>
+         </Reggaeton>
+         <Reggaeton>
+             <nombre>Rauw Alejandro</nombre>
+             <album>Afrodisiaco</album>
+             <Fecha>10 de enero de 1993</Fecha>
+             <Foto>../img/rauw.jpg</Foto>
+         </Reggaeton>
+</cantantes>
